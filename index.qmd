@@ -3,6 +3,15 @@ title: "Will Shelley"
 image: "assets/will_head.jpg"
 ---
 
+```{r, include=FALSE}
+if (!require("pacman")) install.packages("pacman")
+
+# pacman will install if not installed
+pacman::p_load(knitr, rmarkdown)
+```
+
+
+
 ![Will Shelley](assets/will_head.jpg){width=120 style="border-radius: 50%; float: right; margin-left: 20px;"}
 
 # Senior Leader in Data Science
