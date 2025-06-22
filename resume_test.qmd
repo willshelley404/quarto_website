@@ -1,0 +1,73 @@
+---
+title: "Will Shelley"
+author: "Director of Product Analytics | Data Science Leader"
+institute: "Chattanooga, TN, US"
+email: "willshelley404@gmail.com"
+phone: "770-601-9652"
+date: today
+format: pdf
+# format: classic-cv
+---
+
+# Profile
+
+Strategic and hands-on analytics leader with 10+ years of experience guiding cross-functional teams to deliver product insights, optimize user experiences, and drive growth through data. Expert in A/B testing, causal inference, machine learning implementation, and product experimentation. Adept at partnering with Product, Engineering, and Business stakeholders to align analytics with strategy. Known for building high-performance teams, mentoring talent, and translating complex data into clear, actionable decisions.
+
+# Skills
+
+- **Analytics Leadership**: Experiment Design, Product KPIs, Growth Analytics, LTV, Segmentation, Funnel Optimization  
+- **Product & Web Analytics**: Amplitude, Tableau, Looker, Google Analytics, A/B/n Testing, Event Taxonomy  
+- **Technical Expertise**: SQL (expert), R, Python, dbt, BigQuery, Snowflake, Git, Azure, GCP  
+- **Modeling Techniques**: Causal Inference, Time Series Forecasting, Clustering, Recommenders, ML Deployment  
+- **Team Enablement**: Agile Analytics, Strategic Roadmapping, Executive Reporting, Talent Development
+
+# Education
+
+- **M.S., Applied Economics**, University of Georgia, Athens, GA (2016)  
+- **B.B.A., Management**, Georgia Southwestern State University, Americus, GA (2013)
+
+# Experience
+
+## Director of Analytics – Unum Decision Technologies
+**Unum Group**, Chattanooga, TN *(2023–Present)*  
+- Led company-wide implementation of a modern analytics platform (Posit), enhancing collaboration between Product, Engineering, and Data teams.  
+- Launched product analytics experimentation using LLMs (GPT, LLaMA) to analyze user interactions, driving 30% reduction in help desk inquiries and $590K OpEx savings.  
+- Created reusable reporting templates using Quarto and markdown to standardize insights shared with stakeholders, improving clarity and reproducibility.  
+- Mentored analysts in R, Python, and experiment design through hands-on cohorts and internal data science meetups.
+
+## Senior Manager II – Advanced Analytics
+**Walmart Inc.**, Bentonville, AR *(2022–2023)*  
+- Directed cross-functional experiment programs across merchandising and eCommerce to measure incremental value from product decisions.  
+- Integrated real-time behavioral data streams to personalize recommendations and drive $30B apparel assortment optimization.  
+- Built and deployed ML clustering-based recommender system that replaced manual assortment decisions, saving two weeks of effort.  
+- Partnered with Product and Engineering to design event-level tracking and improve product instrumentation.
+
+## Applied Economist & Demand Analytics Manager
+**Shaw Industries**, Dalton, GA *(2019–2022)*  
+- Designed and implemented causal inference models to assess impact of promotions and external shocks on product sales.  
+- Led the shift from spreadsheet-based forecasts to modern predictive models, unlocking $24M in inventory savings.  
+- Championed enterprise Tableau rollout and self-service analytics adoption across sales and product divisions.  
+- Provided LTV and segmentation analysis to guide executive decision-making on pricing and channel strategy.
+
+## Decision Support Analyst / Sales & Marketing Analyst / Applications Administrator  
+**McKee Foods Corporation**, Collegedale, TN *(2016–2019)*  
+- Built statistical models to inform pricing and product strategy across multiple business units.  
+- Developed interactive dashboards in Power BI and Tableau to track user behavior and product impact for executive teams.  
+- Created ETL workflows using Alteryx and SQL to support web analytics and customer segmentation.  
+- Acted as analytics liaison to product teams for experimentation, KPI definition, and insight delivery.
+
+## Graduate Research Assistant – Applied Economics  
+**University of Georgia**, Athens, GA *(2014–2016)*  
+- Modeled market behavior and economic outcomes using advanced econometric methods.  
+- Conducted experimental design and statistical analysis for agricultural research projects.
+
+# Projects
+
+- **Product Insights with LLMs (Unum):** Used AI to analyze customer interactions, streamline support flows, and inform product strategy  
+- **Behavioral Segmentation (Walmart):** ML-driven store clustering and behavior-based modeling for assortment targeting  
+- **Forecast Modernization (Shaw):** Built predictive demand models integrating external variables and causal inference
+
+# Links
+
+- GitHub: [github.com/willshelley](https://github.com/willshelley404)  
+- Quarto Website: [connect.posit.cloud/willshelley/](https://connect.posit.cloud/willshelley/content/01977f46-21f7-8c58-7c62-e45d49386629)

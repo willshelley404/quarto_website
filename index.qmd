@@ -1,0 +1,22 @@
+---
+title: "Will Shelley"
+image: "assets/will_head.jpg"
+---
+
+![Will Shelley](assets/will_head.jpg){width=120 style="border-radius: 50%; float: right; margin-left: 20px;"}
+
+# Senior Leader in Data Science
+
+Welcome to my professional portfolio. I'm a senior data science leader with over a decade of experience transforming enterprise data strategy, building high-performance teams, and scaling machine learning solutions to drive business impact.
+
+🔧 **Key strengths**:
+- Strategic team building & leadership
+- Forecasting & optimization
+- Scalable ML deployment & MLOps
+- Cloud architecture & governance
+- Data storytelling & interactive visualization
+
+📫 **Contact**: [willshelley404@gmail.com](mailto:willshelley404@gmail.com) | 📞 770-601-9652  
+📍 **Location**: Chattanooga, TN
+
+[View My Resume »](sr_2025_resume_pdf.qmd)

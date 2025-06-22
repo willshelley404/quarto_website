@@ -1,0 +1,100 @@
+---
+title: "Will Shelley"
+subtitle: "Senior Data Science & Analytics Leader"
+format: 
+  pdf:
+    documentclass: article
+    geometry: 
+      - margin=0.75in
+      - top=0.5in
+      - bottom=0.5in
+    fontsize: 10pt
+    colorlinks: true
+    linkcolor: blue
+    urlcolor: blue
+    include-in-header:
+      text: |
+        \usepackage{enumitem}
+        \usepackage{xcolor}
+        \definecolor{sectioncolor}{RGB}{44,62,80}
+        \setlist[itemize]{leftmargin=*,topsep=2pt,itemsep=1pt}
+        \pagenumbering{gobble}
+        \renewcommand{\thesection}{}
+        \renewcommand{\thesubsection}{}
+---
+
+\begin{center}
+\textbf{Chattanooga, TN, US} $\bullet$ \textbf{willshelley404@gmail.com} $\bullet$ \textbf{770-601-9652}
+\end{center}
+
+# Profile
+
+Dynamic and strategic data science executive with 10+ years of experience delivering business transformation through advanced analytics, scalable cloud solutions, and cross-functional leadership. Proven track record of building high-performing teams, aligning enterprise analytics with corporate strategy, and driving measurable ROI through machine learning, AI, and modern reporting platforms. Adept at navigating both business and technical domains to accelerate digital maturity and foster a data-driven culture across the enterprise.
+
+# Skills
+
+**Leadership & Strategy:** Analytics Transformation, Team Building, Executive Influence, Agile Enablement  
+**Data Science & ML:** Forecasting, Clustering, Causal Inference, LLMs, Ensembling, Bayesian Modeling  
+**Technology Platforms:** AWS, Azure, GCP, BigQuery, Spark, S3, Informatica, DevOps CI/CD  
+**Visualization & Reporting:** Shiny, Quarto, Tableau, Power BI, Plotly, GIS, Leaflet  
+**Tools & Languages:** R, Python, SQL, C++, Git, Stan, SAS, Stata, Linux
+
+# Education
+
+**M.S., Applied Economics** | University of Georgia, Athens, GA | 2016  
+**B.B.A., Management** | Georgia Southwestern State University, Americus, GA | 2013
+
+# Experience
+
+## Director of Analytics – Unum Decision Technologies
+**Unum Group**, Chattanooga, TN | *2023–Present*
+
+- Led enterprise rollout of modern analytics platform (Posit) to streamline collaborative development and data sharing
+- Created Quarto-based reporting framework adopted across data science teams for reproducibility and consistency
+- Saved $590K in OpEx by deploying LLMs (GPT & LLaMA) to analyze support calls, reducing help desk volume by 30%
+- Established team-wide governance standards around DevOps, reproducibility, and documentation
+- Cultivated cross-functional collaboration through internal learning cohorts and monthly data science meetups
+
+## Senior Manager II – Advanced Analytics
+**Walmart Inc.**, Bentonville, AR | *2022–2023*
+
+- Deployed ML models into production via CI/CD, enabling scalable real-time decision-making
+- Integrated real-time streaming data to optimize $30B apparel assortment operations
+- Automated clustering-based store recommendations, reducing manual labor by two weeks
+- Improved GCP cloud queries for $1M in annual savings through optimization strategies
+- Built pipelines in BigQuery to improve data accessibility and reduce manual workflows by 50%
+
+## Applied Economist & Demand Analytics Manager
+**Shaw Industries**, Dalton, GA | *2019–2022*
+
+- Achieved $24M in inventory savings through modernized forecasting using anomaly detection
+- Deployed clustering models for substitution recommendations, achieving 84% acceptance
+- Led Tableau self-service analytics rollout, eliminating manual Excel reports
+- Hired and mentored analytics staff, improving performance, retention, and team maturity
+- Delivered C-suite economic models for strategic planning and resource allocation
+
+## Decision Support Analyst / Sales & Marketing Analyst / Applications Administrator
+**McKee Foods Corporation**, Collegedale, TN | *2016–2019*
+
+- Built predictive models for business planning and operational strategy
+- Administered Tableau Server and implemented self-service analytics culture
+- Designed ETL pipelines in Alteryx to aggregate and cleanse data
+- Developed Power BI dashboard for Workday integration, used by C-suite for charitable tracking
+
+## Graduate Research Assistant – Applied Economics
+**University of Georgia**, Athens, GA | *2014–2016*
+
+- Conducted econometric and causal inference analysis for agricultural economics research
+- Managed large-scale data formatting and modeling projects in support of grant-funded studies
+
+# Key Projects
+
+**Quarto Reporting Framework** – Developed a reproducible analytics reporting structure using Quarto for R/Python developers to streamline insights communication
+
+**Apparel Optimization (Walmart)** – Designed streaming + ML solution that enhanced responsiveness and assortment planning across thousands of stores
+
+**Forecasting Modernization (Shaw)** – Implemented modern time series and anomaly detection methods that unlocked $24M in working capital
+
+\begin{center}
+$\bullet$  \href{https://github.com/willshelley404?tab=repositories}{GitHub} $\bullet$ 
+\end{center}
