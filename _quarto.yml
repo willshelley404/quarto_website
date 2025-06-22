@@ -8,12 +8,13 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Projects"
-        href: projects.qmd
       - text: "About"
         href: about.qmd
-      - text: "Resume"
-        href: resume.html
+      - text: "Projects"
+        href: projects.qmd
+
+      # - text: "Resume"
+      #   href: resume.html
   page-footer:
     left: "© 2025 Will Shelley"
     right: "Built with [Quarto](https://quarto.org)"
