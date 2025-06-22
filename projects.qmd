@@ -1,0 +1,21 @@
+---
+title: "Projects"
+---
+
+# Featured Work
+
+Here are a few selected apps and tools I’ve built:
+
+- [**Economic Data Correlation App**](https://willshelley.shinyapps.io/broker_compass_gms/)  
+  Explore relationships between macroeconomic indicators and broker performance.
+
+- [**Broker Growth Winners & Losers**](https://willshelley.shinyapps.io/Broker_Winners_Losers/)  
+  Analyze growth rates across top insurance brokers using dynamic filters and visuals.
+
+- [**Product Attribute Clustering**](https://willshelley.shinyapps.io/ClusteringApp/)  
+  Visualize product segmentation and similarity through unsupervised learning.
+
+- [**Economic Forecasting Dashboard**](https://willshelley.shinyapps.io/ws_econ_forecast/)  
+  Time series visualizer and forecaster with interactive economic inputs.
+
+Each of these tools reflects my focus on transforming data into actionable insights through interactive, accessible platforms.

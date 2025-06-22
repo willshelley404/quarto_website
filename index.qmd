@@ -19,4 +19,4 @@ Welcome to my professional portfolio. I'm a senior data science leader with over
 📫 **Contact**: [willshelley404@gmail.com](mailto:willshelley404@gmail.com) | 📞 770-601-9652  
 📍 **Location**: Chattanooga, TN
 
-[View My Resume »](sr_2025_resume_pdf.qmd)
+<!-- [View My Resume »](resume.html) -->

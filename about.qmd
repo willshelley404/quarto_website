@@ -1,9 +1,14 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+![Will Shelley](assets/will_head.jpg){width=180 style="border-radius: 50%;"}
 
-```{r}
-1 + 1
-```
+
+Originally from Atlanta, GA, I spent about 15 years working in fine dining restaurants before transitioning into data science. I earned a Master’s degree in Applied Economics from the University of Georgia and have worked in the data science field for over 10 years now. My current work focuses on developing an ensemble forecasting modeling approach, enabling data science platforms across the business, and leading a high-performing data science team.
+
+The service-oriented mindset I developed in the culinary industry has carried over into my current role, where understanding the needs of stakeholders and delivering clear, actionable insights is essential. I enjoy working on problems that blend analytical rigor with real-world impact.
+
+Outside of work, I enjoy chess, college football (Go Dawgs!), and spending time with my wife and four children, especially watching them play competitive soccer.
+
+Feel free to explore a few of my [projects](projects.qmd) or reach out directly.
