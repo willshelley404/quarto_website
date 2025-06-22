@@ -7,13 +7,13 @@ website:
   navbar:
     left:
       - text: "Home"
-        href: index.html
+        href: index.qmd
       - text: "Projects"
-        href: projects.html
+        href: projects.qmd
+      - text: "About"
+        href: about.qmd
       - text: "Resume"
         href: resume.html
-      - text: "About"
-        href: about.html
   page-footer:
     left: "© 2025 Will Shelley"
     right: "Built with [Quarto](https://quarto.org)"
