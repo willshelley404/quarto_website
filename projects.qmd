@@ -6,6 +6,9 @@ title: "Projects"
 
 Here are a few selected apps and tools I’ve built:
 
+- [**Data Viewer App - Housing Market**](https://0197956a-a069-9bec-90a5-4f11d3df55c5.share.connect.posit.cloud/)  
+  View real-time housing data from FRED and examine changes over time.
+  
 - [**Economic Data Correlation App**](https://willshelley.shinyapps.io/broker_compass_gms/)  
   Explore relationships between macroeconomic indicators and broker performance.
 
