@@ -6,19 +6,19 @@ title: "Projects"
 
 Here are a few selected apps and tools I’ve built:
 
-- [**Data Viewer App - Housing Market**](https://0197956a-a069-9bec-90a5-4f11d3df55c5.share.connect.posit.cloud/)  
+- [**Data Viewer App - Housing Market**](https://0197956a-a069-9bec-90a5-4f11d3df55c5.share.connect.posit.cloud/){target="_blank"}  
   View real-time housing data from FRED and examine changes over time.
   
-- [**Economic Data Correlation App**](https://willshelley.shinyapps.io/broker_compass_gms/)  
+- [**Economic Data Correlation App**](https://willshelley.shinyapps.io/broker_compass_gms/){target="_blank"}    
   Explore relationships between macroeconomic indicators and broker performance.
 
-- [**Broker Growth Winners & Losers**](https://willshelley.shinyapps.io/Broker_Winners_Losers/)  
+- [**Broker Growth Winners & Losers**](https://willshelley.shinyapps.io/Broker_Winners_Losers/){target="_blank"}    
   Analyze growth rates across top insurance brokers using dynamic filters and visuals.
 
-- [**Product Attribute Clustering**](https://willshelley.shinyapps.io/ClusteringApp/)  
+- [**Product Attribute Clustering**](https://willshelley.shinyapps.io/ClusteringApp/){target="_blank"}    
   Visualize product segmentation and similarity through unsupervised learning.
 
-- [**Economic Forecasting Dashboard**](https://willshelley.shinyapps.io/ws_econ_forecast/)  
+- [**Economic Forecasting Dashboard**](https://willshelley.shinyapps.io/ws_econ_forecast/){target="_blank"}    
   Time series visualizer and forecaster with interactive economic inputs.
 
 Each of these tools reflects my focus on transforming data into actionable insights through interactive, accessible platforms.
