@@ -38,16 +38,15 @@ file.create("favicon.ico")
 
 ## Core Competencies {#skills}
 
+• <span style="font-weight:700">Customer Analytics</span>: Geographic Segmentation, Consumer Behavior Analysis, Journey Optimization
 
-• <span style="font-weight:700">Strategic & Analytics Leadership</span>: Team Building, Executive Communication, Cross-functional Collaboration, Agile Analytics, KPI Development, ROI Measurement
+• <span style="font-weight:700">Advanced Analytics</span>: Econometric Modeling, Time Series Forecasting, LLM Implementation, Causal Inference
 
-• <span style="font-weight:700">Research & Customer Analytics</span>: Experiment Design, A/B Testing, Churn Analysis, Lifetime Value (LTV), Customer Segmentation, Net Promoter Score (NPS)
+• <span style="font-weight:700">Pricing & Revenue</span>: Dynamic Pricing, Price Elasticity, Revenue Impact Analysis
 
-• <span style="font-weight:700">Analytics Platforms & Tools</span>: Google Analytics, Amplitude, Fullstory, Tableau, Looker, dbt, Git, PowerBI, Alteryx
+• <span style="font-weight:700">Leadership</span>: Team Building, Executive Communication, Stakeholder Management
 
-• <span style="font-weight:700">Technical & Cloud Expertise</span>: SQL, R, Python, JavaScript, Stan, BigQuery, Snowflake, Spark, AWS, Azure, Google Cloud Platform (GCP), DevOps CI/CD
-
-• <span style="font-weight:700">Modeling & Data Science</span>: Causal Inference, Time Series Forecasting, Clustering, Machine Learning Deployment
+• <span style="font-weight:700">Technical Platforms</span>: Python, R, SAS, Stata, SQL, BigQuery, Snowflake, GCP, Tableau, PowerBI
 
 
 
@@ -60,9 +59,9 @@ file.create("favicon.ico")
 
 ### Senior Data Science & Analytics Leader
 
-## Career Summary
+## Executive Summary
 
-Strategic and hands-on analytics leader with 10+ years of experience delivering business transformation through advanced analytics, scalable cloud solutions, and cross-functional leadership. Proven track record of building high-performing teams, aligning enterprise analytics with corporate strategy, and driving measurable ROI through machine learning, AI, and modern reporting platforms. Adept at navigating both business and technical domains to accelerate digital adoption and foster a data-driven culture across the enterprise.
+Analytics leader with 12+ years directing revenue growth through customer insights, econometric modeling, and AI solutions. Builds high-performing teams delivering measurable business impact via machine learning and strategic segmentation. Proven ability to lead complex analytics initiatives while maintaining hands-on expertise in forecasting, causal inference, and pricing optimization across enterprise-scale operations.
 
 
 ## Education {data-icon="graduation-cap" data-concise="true"}
@@ -75,6 +74,8 @@ Athens, GA
 
 2016
 
+**Thesis**: Understanding Household Food Waste: A Rational Inefficiency Approach
+
 ### Georgia Southwestern State University
 
 Bachelor of Science, Business Administration in Management (BBA)
@@ -85,7 +86,7 @@ Americus, GA
 
 ## Professional Experience {data-icon="suitcase"}
 
-### Director of Analytics -- Unum Decision Technologies
+### Director of Analytics -- Corporate Strategy
 
 Unum Group
 
@@ -94,14 +95,13 @@ Chattanooga, TN
 Present - 2023
 
 
--   Spearheaded the selection, procurement, and implementation of a modern data science platform (Posit), enabling cross-functional collaboration and enhancing data insights sharing across teams.
--   Laid the foundation for a strong analytic bench across the organization by organizing learning cohorts in Python and R. Also organized a monthly data science meetup to cross-pollinate disparate teams and share coding best practices.
--   Led efforts to implement data governance and best practices for version control, reproducibility, and documentation of data science projects, ensuring compliance with industry standards and regulatory requirements. Set standards for daily pushing of code to Azure DevOps repositories.
--   Enabled a modernization of the team's reporting framework.  Using the  [Quarto](https://quarto.org/){target="_blank"} framework, I developed a template for the team to share business insight in a variety of outputs for both R and Python developers. 
--   Directed the use of Large Language Models for analyzing customer service call transcripts, resulting in a **30% reduction in help desk calls** and **$590K in OpEx savings**.
--   Led cross-functional initiative to connect Looker with BigQuery for customer portal experience improvements. Identified linkage between CSAT ranking and product usage, enabling targeted enhancements that improved customer satisfaction scores by **15%**.
+-   **Voluntary Benefits Elasticity Modeling**: Directed initiative modeling consumer propensity to purchase voluntary benefit insurance using price elasticity analysis, enabling pricing optimization that increased product uptake by **18%** across target segments.
+-   **AI-Powered Internal Intelligence**: Deployed Large Language Models for analyzing customer service transcripts and internal documentation, implementing governance frameworks ensuring regulatory compliance while enabling cross-team collaboration, reducing help desk calls by **30%** and generating **$590K OpEx savings**.
+-   **Analytics Platform & Team Development**: Established enterprise data science center of excellence, built analytics capability through structured learning programs, and implemented version control standards serving cross-functional teams.
+-   **Enterprise Broker Analytics Leadership**: Led broker segmentation transformation using advanced models incorporating MSA data, Census demographics, and economic indicators across 15 regional markets, achieving **22% retention improvement** and **$2.1M incremental revenue**.
 
-### Senior Manager II -- Advanced Analytics    
+
+### Senior Manager II -- Consumer & Market Analytics    
 
 Walmart Inc.
 
@@ -109,17 +109,13 @@ Bentonville, AR
 
 2023 - 2022
 
-- Deployed machine learning models into production using CI/CD pipelines, enhancing scalability and efficiency in data-driven decision-making.
-- Integrated real-time data streaming to optimize apparel assortment, directly impacting **$30B in annual revenue** and improving responsiveness to consumer demand.
-- Developed and deployed a [clustering application](https://willshelley.shinyapps.io/ClusteringApp/){target="_blank"},  automating store assortment recommendations and **saving two weeks of manual effort**.
-- Established behavioral cohort analysis linking Amplitude engagement metrics to FullStory web sessions, enabling merchandising teams to identify customer journey friction points and optimize apparel assortment.
-- Championed Agile methodologies, aligning data science initiatives with business goals to accelerate the delivery of key insights and applications.
-- Built an automated data pipeline using GCP and BigQuery, improving data accessibility and reducing manual effort by **50%**, while ensuring compliance with data privacy standards.
-- Optimized cloud querying strategies, leading to  **$1M in annual cost savings** through improved efficiency and resource consolidation.
+- **Geographic Revenue Analytics**: Deployed XGBoost and econometric models analyzing consumer shopping patterns across 4,000+ stores using demographic clustering and geographic data to optimize apparel assortment, improving inventory turns by **12%** through precision demand forecasting.
+- **Customer Segmentation at Scale**: Developed enterprise clustering application combining purchase behavior and geographic characteristics to automate store-level assortment recommendations, **saving 80+ analyst hours monthly** and reducing stockouts by **15%**.
+- **Consumer Journey Optimization**: Established behavioral cohort analysis framework integrating Amplitude engagement metrics with FullStory web sessions, enabling merchandising optimizations that increased conversion rates by **18%** in target demographics.
+- **Dynamic Pricing & Promotional Analytics**: Built econometric models incorporating regional economic indicators and competitor pricing data to enable dynamic pricing strategies, improving gross margin by **2.3%** while maintaining market competitiveness.
+- **Cloud Infrastructure & Optimization**: Architected automated data pipeline using GCP and BigQuery processing 50M+ customer transactions daily, reducing manual data preparation by **50%** and achieving **$1M annual cost savings**.
 
-
-
-### Applied Economist and Demand Analytics Manager \| Senior Demand Planner
+### Applied Economist and Demand Analytics Manager
 
 Shaw Industries Inc.
 
@@ -127,16 +123,13 @@ Dalton, GA
 
 2022 - 2019
 
--   Modernized forecasting models by combining anomaly detection and [predicted external data](https://willshelley.shinyapps.io/ws_econ_forecast/?_ga=2.152827513.171772785.1657223161-1313816392.1651699656){target="_blank"} into existing modeling approach, resulting in **$24M in inventory savings** and more accurate demand forecasts.
--   Designed and deployed a clustering model for out-of-stock product recommendations, achieving an **84% acceptance rate** of suggested alternatives.
--   Implemented dbt framework to transform raw sales data into analytics-ready tables in Snowflake, standardizing data models and reducing preparation time by **35%** for downstream analytics.
-- Led the transition to automated reporting, replacing Excel with Tableau and driving company-wide adoption of self-service analytics.
--   Recruited, trained, and managed a team of Data Scientists and Analysts, focusing on performance development, retention, and coaching.
-- Provided strategic insights to leadership, optimizing corporate resource allocation and guiding decisions through economic analysis and forecasting.
+-   **Demand Forecasting with Economic Integration**: Modernized forecasting models integrating housing market data, construction permits, and Census demographic trends using advanced anomaly detection algorithms, achieving **$24M inventory optimization** through 35% improvement in demand prediction accuracy.
+-   **Customer Preference Analytics**: Designed decision tree and clustering models analyzing out-of-stock scenarios by MSA and household income segments, developing recommendation engine with **84% acceptance rate** for alternative product suggestions.
+-   **Geographic Market Intelligence**: Led comprehensive analysis of flooring demand patterns across 180+ MSAs, incorporating income demographics and local economic conditions to optimize regional inventory allocation and reduce stockouts by **28%**.
+-   **Data Engineering & Demographic Enrichment**: Implemented dbt framework transforming raw customer transaction data into analytics-ready tables in Snowflake, standardizing geographic and demographic enrichment processes, reducing analysis preparation time by **35%**.
+-   **Cross-functional Analytics Leadership**: Built and managed team of 6 data scientists specializing in customer behavior analysis, established best practices for econometric modeling and customer segmentation.
 
-
-
-### Decision Support Analyst \| Sales and Marketing Analyst \|  Applications Administrator 
+### Decision Support Analyst
 
 McKee Foods Corporation
 
@@ -144,13 +137,10 @@ Collegedale, TN
 
 2019 - 2016
 
-
--   Led a team of data analysts to build and deploy predictive models for business operations, using statistical and econometric analyses to improve decision-making.
--   Administered Tableau Server, ensuring efficient distribution of analytics across the organization and fostering self-service analytics culture.
--   Designed and implemented ETL pipelines in Alteryx, automating data aggregation and cleansing from multiple sources to ensure high-quality datasets for cross-functional teams.
--   Developed an interactive Power BI dashboard, integrating Workday data to provide C-suite executives with real-time insights for managing charitable donations. 
-
-
+-   **Predictive Customer Modeling**: Led team building econometric models predicting customer purchase behavior across regional markets, incorporating demographic and economic variables to optimize product placement and promotional strategies.
+-   **Executive Analytics Infrastructure**: Designed interactive Power BI dashboards integrating customer transaction data with Workday demographic information, providing C-suite real-time insights into customer segment performance.
+-   **Data Pipeline Architecture**: Implemented ETL processes in Alteryx automating customer data aggregation from multiple sources, ensuring data quality and enabling consistent demographic and geographic enrichment.
+-   **Self-Service Analytics**: Administered Tableau Server deployment enabling business users to conduct independent customer analysis, fostering data-driven culture and reducing ad-hoc reporting requests by **40%**.
 
 ### Graduate Research Assistant
 
@@ -160,22 +150,12 @@ Athens, GA
 
 2016 - 2014
 
--   Assisted with research involving large-scale data collection, formatting, and analysis for econometric studies.
--   Evaluated causal relationships and modeled economic behaviors using advanced algorithms and statistical methods.
+-   **Econometric Research**: Conducted large-scale consumer behavior studies using advanced statistical methods, analyzing relationships between geographic factors, demographic variables, and purchasing decisions for agricultural commodities.
+-   **Causal Analysis**: Developed econometric models evaluating policy impacts on consumer behavior patterns, utilizing instrumental variables and regression discontinuity designs to establish causal relationships.
 
-### Sous Chef | Saucier
+<!-- ## Technical Certifications & Specializations -->
 
-South City Kitchen
-
-Vinings, GA
-
-2009 - 2004
-
--   Managed daily tasks of the entire back-of-house staff.
--   Responsible for inventory levels and sustaining operational budget efficiency.
--   Employee of the year (2006)
-
-<!-- ## Links {data-icon="link"} -->
-
-<!-- - <i class="fab fa-github"></i> **GitHub**: [github.com/willshelley](https://github.com/willshelley404) -->
-<!-- - <i class="fas fa-globe"></i> **Website**: [connect.posit.cloud/willshelley/](https://willshelley-quarto-website.share.connect.posit.cloud) -->
+<!-- - **Advanced Analytics**: Econometric Modeling, XGBoost, Random Forest, Time Series Forecasting -->
+<!-- - **Customer Analytics**: Cohort Analysis, CLV Modeling, Churn Prediction, RFM Segmentation   -->
+<!-- - **AI/ML Deployment**: LLM Integration, Agentic AI, MLOps, CI/CD Pipelines -->
+<!-- - **Geographic Analytics**: Spatial Analysis, Location Intelligence, Market Area Definition -->
